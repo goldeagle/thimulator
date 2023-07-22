@@ -1,3 +1,3 @@
-# xgmock
+# shakemock
 
-A cross(X) protocol Gateway Mock tool for IoT device simulation.
+A multi protocol mock tool for IoT device simulations.
