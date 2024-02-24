@@ -2,15 +2,11 @@
 A multi protocol mocking & testing tool for IoT device simulations. Written in ZIG.
 
 # OSs
-- X64 Linux with glibc
-- X64 Linux with musl
-- Aarch64 Linux with glibc
-- Aarch64 Linux with musl
-- Aarch64 Linux with uclibc
-- Aarch64 MacOS with glibc
+- X64 Linux (glibc|musl)
+- Aarch64 Linux (glibc|musl|uclibc)
+- Aarch64 MacOS (glibc)
 
 # Features
-- client only
 - device profiles & pre-set point tables
 - data pub/sub & req/rsp simulation
 - multi-threads & multi-nodes
